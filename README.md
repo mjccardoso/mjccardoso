@@ -1,8 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=mauurao)
 
-#### Data Analyst 🤓👋
+#### Data Analyst specialized in Business Intelligence 🤓👋
 
-Multidisciplinary and results-driven data professional with over 3 years of experience developed in medium and large Information Technology companies.
 
  <div>
   <a href="https://github.com/mauurao">
