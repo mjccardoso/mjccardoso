@@ -1,6 +1,6 @@
 <!-- ![](https://komarev.com/ghpvc/?username=mauurao)-->
 
-#### Data Analyst specialized in Business Intelligence 🤓👋
+#### Data Analyst and an Eternal Student 🤓👋
 
 
  <div>
