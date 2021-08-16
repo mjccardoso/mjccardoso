@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=mauurao)
+<!-- ![](https://komarev.com/ghpvc/?username=mauurao)-->
 
 #### Data Analyst specialized in Business Intelligence 🤓👋
 
