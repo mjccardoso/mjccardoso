@@ -3,8 +3,8 @@
 #### Data Analyst specialized in Business Intelligence 🤓👋
  <div>
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauurao&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauurao&layout=compact&langs_count=7&theme=blac"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauurao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauurao&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <!--
 **mauurao/mauurao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
