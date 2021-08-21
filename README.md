@@ -14,7 +14,7 @@
  
  <div>
   <a href="https://www.linkedin.com/in/maurocardoso94/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://mauurao.medium.com/" target="_blank"><img src="https://miro.medium.com/max/2000/1*jfdwtvU6V6g99q3G7gq7dQ.png" target="_blank" img height="30em"></a>
+    <a href="https://mauurao.medium.com/" target="_blank"><img src="https://miro.medium.com/max/8976/1*Ra88BZ-CSTovFS2ZSURBgg.png" target="_blank" img height="30em"></a>
     <a href="https://www.kaggle.com/maurocardoso" target="_blank"><img src="https://www.kaggle.com/static/images/site-logo.png" target="_blank" img height="30em"></a> 
   </div>
 
