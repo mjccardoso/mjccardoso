@@ -1,11 +1,11 @@
 <!-- ![](https://komarev.com/ghpvc/?username=mauurao)-->
 
-<h4 align="left">Data Analyst and an Eternal Student!</h4>
+<h4 align="left">Data Analyst and an Eternal Student!!</h4>
 
-📫  **How to reach me**:
+📫 &ensp;**How to reach me**:
  
  <div>
-  <a href="https://www.linkedin.com/in/maurocardoso94/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/maurocardoso94/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://mauurao.medium.com/" target="_blank"><img src="https://miro.medium.com/max/8976/1*Ra88BZ-CSTovFS2ZSURBgg.png" target="_blank" img height="30em"></a>
     <a href="https://www.kaggle.com/maurocardoso" target="_blank"><img src="https://www.kaggle.com/static/images/site-logo.png" target="_blank" img height="30em">   </a> 
  </div>
