@@ -1,22 +1,24 @@
 <!-- ![](https://komarev.com/ghpvc/?username=mauurao)-->
 
-#### Data Analyst and an Eternal Student 🤓👋
+<h4 align="left">Data Analyst and an Eternal Student!</h4>
 
-
- <div>
-  <a href="https://github.com/mauurao">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mauurao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauurao&layout=compact&langs_count=7&theme=dark"/>
-</div>
- 
- 
- 📫  How to reach me:
+📫  **How to reach me**:
  
  <div>
   <a href="https://www.linkedin.com/in/maurocardoso94/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://mauurao.medium.com/" target="_blank"><img src="https://miro.medium.com/max/8976/1*Ra88BZ-CSTovFS2ZSURBgg.png" target="_blank" img height="30em"></a>
-    <a href="https://www.kaggle.com/maurocardoso" target="_blank"><img src="https://www.kaggle.com/static/images/site-logo.png" target="_blank" img height="30em"></a> 
-  </div>
+    <a href="https://www.kaggle.com/maurocardoso" target="_blank"><img src="https://www.kaggle.com/static/images/site-logo.png" target="_blank" img height="30em">   </a> 
+ </div>
+ <p> </p>
+
+ <div>
+  <a href="https://github.com/mauurao">
+  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=mauurao&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="110em" src="https://github-readme-streak-stats.herokuapp.com/?user=mauurao&layout=compact&langs_count=7&theme=dark" alt="mauurao" />
+  <img height="185em" align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauurao&layout=compact&langs_count=7&theme=dark" />
+</div>
+ 
+
 
 <!--
 **mauurao/mauurao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
