@@ -2,7 +2,7 @@
 
 <!-- <h4 align="left">Data Analyst and an Eternal Student!!</h4>-->
 
-📫 &ensp; **How to reach me**:
+ <!-- 📫 &ensp; **How to reach me**: -->
 
 www.mauurao.com
  
@@ -15,8 +15,8 @@ www.mauurao.com
 
  <div>
   <a href="https://github.com/mauurao">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauurao&layout=compact&langs_count=7&theme=dark" />
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=mauurao&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauurao&layout=compact&langs_count=7&theme=dark" />
+  <!-- <img height="120em" src="https://github-readme-stats.vercel.app/api?username=mauurao&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />  -->
   <!-- <img height="110em" src="https://github-readme-streak-stats.herokuapp.com/?user=mauurao&layout=compact&langs_count=7&theme=dark" alt="mauurao" /> -->
 </div>
 
