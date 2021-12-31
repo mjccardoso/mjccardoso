@@ -4,8 +4,8 @@
 
  <!-- 📫 &ensp; **How to reach me**: -->
 
- <p align="left">
-  <a href="www.mauurao.com"><img src="https://img.shields.io/badge/www.mauurao.com-website-blue" /></a>
+<p align="left">
+<a href="https://www.mauurao.com7" target="_blank"><img src="https://img.shields.io/badge/www.mauurao.com-website-blue" target="_blank"></a>
 </p>
  
  <div>
