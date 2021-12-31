@@ -4,7 +4,9 @@
 
  <!-- 📫 &ensp; **How to reach me**: -->
 
-www.mauurao.com
+ <p align="left">
+  <a href="www.mauurao.com"><img src="https://img.shields.io/badge/-www.mauurao.com-c14438?style=logoColor=white" /></a>
+</p>
  
  <div>
   <a href="https://www.linkedin.com/in/maurocardoso94/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -12,6 +14,7 @@ www.mauurao.com
     <a href="https://www.kaggle.com/maurocardoso" target="_blank"><img src="https://www.kaggle.com/static/images/site-logo.png" target="_blank" img height="30em">   </a> 
  </div>
  <p> </p>
+ 
 
  <div>
   <a href="https://github.com/mauurao">
