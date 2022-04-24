@@ -1,8 +1,11 @@
-<!-- ![](https://komarev.com/ghpvc/?username=mauurao)-->
+### Hey 👋, I’m Mauro.
+#### I'm a Business Intelligence and Analytics Engineer
 
-<!-- <h4 align="left">Data Analyst and an Eternal Student!!</h4>-->
+Results-oriented, multidisciplinary data professional and enthusiast with experience developed in medium and large Information Technology companies.
 
- <!-- 📫 &ensp; **How to reach me**: -->
+MSc in Integrated Decision Support Systems (Business Intelligence Systems) from ISCTE - Instituto Universitário de Lisboa and with a Bachelor’s Degree in Electrotechnical Engineering from Politécnico de Setúbal.
+
+Skills:  Business Intelligence (BI) / ETL / PYTHON / SQL
 
 <p align="left">
 <a href="https://www.mauurao.com/" target="_blank"><img src="https://img.shields.io/badge/www.mauurao.com-website-yellow" target="_blank"></a>
