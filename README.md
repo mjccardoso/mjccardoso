@@ -4,7 +4,7 @@
 Results-oriented, multidisciplinary data professional and enthusiast with experience developed in medium and large Information Technology companies.
 
 · MSc in Integrated Decision Support Systems (Business Intelligence Systems) from ISCTE - Instituto Universitário de Lisboa <br>
-· Bachelor’s Degree in Electrotechnical Engineering from Politécnico de Setúbal.
+· Bachelor’s Degree in Electrotechnical and Computers Engineering from Politécnico de Setúbal.
 
 Skills:  Business Intelligence (BI) / ETL / PYTHON / SQL
 
