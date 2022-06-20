@@ -1,5 +1,5 @@
 ### Hey 👋, I’m Mauro.
-#### I'm a Business Intelligence and Analytics Engineer
+#### I'm a Business Intelligence Engineer
 
 Results-oriented, multidisciplinary data professional and enthusiast with experience developed in medium and large Information Technology companies.
 
