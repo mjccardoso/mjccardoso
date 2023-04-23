@@ -1,12 +1,13 @@
 ### Hey 👋, I’m Mauro.
-#### I'm a Business Intelligence and Analytics Engineer
+#### I'm a Data Engineer
 
 Results-oriented, multidisciplinary data professional and enthusiast with experience developed in medium and large Information Technology companies.
 
-· MSc in Business Intelligence Systems from ISCTE - Instituto Universitário de Lisboa <br>
-· Bachelor’s Degree in Electrotechnical and Computers Engineering from Politécnico de Setúbal.
+· MSc in Computer Engineering from ISCTE - Instituto Universitário de Lisboa <br>
+· Postgraduate Degree in Integrated Business Intelligence Systems from ISCTE - Instituto Universitário de Lisboa <br>
+· Bachelor’s Degree in Electrotechnical and Computer Engineering from Politécnico de Setúbal.
 
-Skills:  Business Intelligence (BI) / ETL / PYTHON / SQL
+Skills:  Data Engineering/ Business Intelligence (BI) / ETL / PYTHON / SQL / Spark / Data Warehousing
 
 <p align="left">
 <a href="https://www.mauurao.com/" target="_blank"><img src="https://img.shields.io/badge/www.mauurao.com-website-yellow" target="_blank"></a>
@@ -21,7 +22,7 @@ Skills:  Business Intelligence (BI) / ETL / PYTHON / SQL
  
 
  <!--<div>
-  <a href="https://github.com/mauurao">
+  <a href="https://github.com/mjccardoso">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauurao&layout=compact&langs_count=7&theme=dark" />
   <!-- <img height="120em" src="https://github-readme-stats.vercel.app/api?username=mauurao&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />  -->
   <!-- <img height="110em" src="https://github-readme-streak-stats.herokuapp.com/?user=mauurao&layout=compact&langs_count=7&theme=dark" alt="mauurao" /> -->
