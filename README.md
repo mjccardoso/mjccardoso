@@ -10,7 +10,7 @@ Results-oriented, multidisciplinary data professional and enthusiast with experi
 Skills:  Data Engineering/ Business Intelligence (BI) / ETL / PYTHON / SQL / Spark / Data Warehousing
 
 <p align="left">
-<a href="https://www.mauurao.com/" target="_blank"><img src="https://img.shields.io/badge/www.mauurao.com-website-yellow" target="_blank"></a>
+<a href="https://www.mjccardoso.github.io/" target="_blank"><img src="https://img.shields.io/badge/www.mjccardoso.github.io-website-yellow" target="_blank"></a>
 </p>
  
  <div>
