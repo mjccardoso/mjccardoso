@@ -5,7 +5,7 @@ Results-oriented, multidisciplinary data professional and enthusiast with experi
 
 · MSc in Computer Engineering from ISCTE - Instituto Universitário de Lisboa <br>
 · Postgraduate Degree in Integrated Business Intelligence Systems from ISCTE - Instituto Universitário de Lisboa <br>
-· Bachelor’s Degree in Electrotechnical and Computer Engineering from Politécnico de Setúbal.
+· Bachelor’s Degree in Electrical and Computer Engineering from Politécnico de Setúbal.
 
 Skills:  Data Engineering / Business Intelligence (BI) / ETL / PYTHON / SQL / Spark / Data Warehousing
 
