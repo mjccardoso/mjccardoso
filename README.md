@@ -1,13 +1,8 @@
-### Hey 👋, I’m Mauro.
-#### I'm a Data Engineer
-
-Results-oriented, multidisciplinary data professional and enthusiast with experience developed in medium and large Information Technology companies.
+Developer and data specialist with extensive experience in business intelligence, analysis and, above all, in developing data solutions that support business decisions.
 
 · MSc in Computer Engineering from ISCTE - Instituto Universitário de Lisboa <br>
 · Postgraduate Degree in Integrated Business Intelligence Systems from ISCTE - Instituto Universitário de Lisboa <br>
 · Bachelor’s Degree in Electrical and Computer Engineering from Politécnico de Setúbal.
-
-Skills:  Data Engineering / Business Intelligence (BI) / ETL / PYTHON / SQL / Spark / Data Warehousing
 
 <p align="left">
 <a href="https://mjccardoso.github.io/" target="_blank"><img src="https://img.shields.io/badge/www.mjccardoso.github.io-website-yellow" target="_blank"></a>
