@@ -4,9 +4,9 @@ Developer and data specialist with extensive experience in business intelligence
 · Postgraduate Degree in Integrated Business Intelligence Systems from ISCTE - Instituto Universitário de Lisboa <br>
 · Bachelor’s Degree in Electrical and Computer Engineering from Politécnico de Setúbal.
 
-<p align="left">
+<!--<p align="left">
 <a href="https://mjccardoso.github.io/" target="_blank"><img src="https://img.shields.io/badge/www.mjccardoso.github.io-website-yellow" target="_blank"></a>
-</p>
+</p>-->
  
  <div>
   <a href="https://www.linkedin.com/in/mjccardoso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
