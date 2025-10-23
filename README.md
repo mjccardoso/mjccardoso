@@ -1,4 +1,6 @@
-Developer and data specialist with extensive experience in business intelligence, analysis and, above all, in developing data solutions that support business decisions.
+:)
+
+<!--Developer and data specialist with extensive experience in business intelligence, analysis and, above all, in developing data solutions that support business decisions.
 
 · MSc in Computer Engineering from ISCTE - Instituto Universitário de Lisboa <br>
 · Postgraduate Degree in Integrated Business Intelligence Systems from ISCTE - Instituto Universitário de Lisboa <br>
@@ -8,11 +10,11 @@ Developer and data specialist with extensive experience in business intelligence
 <a href="https://mjccardoso.github.io/" target="_blank"><img src="https://img.shields.io/badge/www.mjccardoso.github.io-website-yellow" target="_blank"></a>
 </p>-->
  
- <div>
+ <!--<div>
   <a href="https://www.linkedin.com/in/mjccardoso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <!-- <a href="https://mauurao.medium.com/" target="_blank"><img src="https://miro.medium.com/max/8976/1*Ra88BZ-CSTovFS2ZSURBgg.png" target="_blank" img height="30em"></a> -->
  <!--   <a href="https://www.kaggle.com/maurocardoso" target="_blank"><img src="https://www.kaggle.com/static/images/site-logo.png" target="_blank" img height="30em"> </a> -->
- </div>
+ <!--</div>
  <p> </p>
  
 
